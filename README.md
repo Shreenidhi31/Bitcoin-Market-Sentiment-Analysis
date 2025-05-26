@@ -13,10 +13,10 @@ Analysed the trading data alongside market sentiment using various charts like b
 
 
 <h2>Insights of Analysis</h2>
-By analysing the merged trade and market sentiment through charts, we can clearly observe that 
-*Trade volume and profit potential are high during extreme greed and extreme fear.
-*Buy trades increses during fear, suggesting some traders buy when the market is low.
-*Sell trades are high during greed, indicating profit making is more.
-*This shows a opposite behavior (contrarian pattern).Traders act opposite to sentiment.
+By analysing the merged trade and market sentiment through charts, we can clearly observe that/n
+*Trade volume and profit potential are high during extreme greed and extreme fear./n
+*Buy trades increses during fear, suggesting some traders buy when the market is low./n
+*Sell trades are high during greed, indicating profit making is more./n
+*This shows a opposite behavior (contrarian pattern).Traders act opposite to sentiment./n
 
 So by recognizing these patterns,we can make smarter trading decisions.Like traders can look for buying opportunities during fear and plan to sell during greed to maximize profit.
