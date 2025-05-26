@@ -14,7 +14,7 @@ Analysed the trading data alongside market sentiment using various charts like b
 
 <h2>Insights of Analysis</h2>
 
-By analysing the merged trade and market sentiment through charts, we can clearly observe that
+By analysing the merged trade and market sentiment data through charts, we can clearly observe that
 <ul>
 <li>Trade volume and profit potential are high during extreme greed and extreme fear.</li>
 <li>Buy trades increses during fear, suggesting some traders buy when the market is low.</li>
